@@ -1,0 +1,5 @@
+C:\Users\Dragan\Documents\Visual Studio 2008\Projects\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\Dragan\Documents\Visual Studio 2008\Projects\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\Dragan\Documents\Visual Studio 2008\Projects\StaticClass\StaticClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dragan\Documents\Visual Studio 2008\Projects\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\Dragan\Documents\Visual Studio 2008\Projects\StaticClass\StaticClass\obj\Debug\StaticClass.pdb
