@@ -9,7 +9,7 @@ namespace StaticClass
     {
         public static void Ispisi()
         {
-        Console.WriteLine("Test");
+        Console.WriteLine("Test 2");
         Console.WriteLine();
         }
     }
